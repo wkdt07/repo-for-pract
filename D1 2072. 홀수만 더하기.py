@@ -20,3 +20,5 @@ for t in range(1,T+1):
 #     print(b)
 #     total = sum(b)
 #     print(f'#{t} {total}')
+
+# 두번째 commit
